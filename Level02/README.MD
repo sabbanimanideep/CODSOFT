@@ -1,4 +1,3 @@
-
 Landing Page
 
 A responsive landing page built with modern web technologies to provide an engaging and seamless user experience across all devices.
@@ -42,7 +41,7 @@ Screenshots
 Desktop View
 ![alt text](desktopview.png)
 Mobile view
-![alt text](mobileview.png)
+![alt text](<WhatsApp Image 2025-03-07 at 9.13.12 PM-1.jpeg>)
 
 
 Contributing
@@ -52,7 +51,3 @@ Feel free to fork this repository and submit pull requests with improvements or 
 License
 
 This project is licensed under the MIT License.
-
-Contact
-
-For any inquiries, reach out to [your email] or visit [your website/social media link].
