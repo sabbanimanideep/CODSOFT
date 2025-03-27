@@ -31,7 +31,7 @@ A responsive landing page built with modern web technologies to provide an engag
 Desktop View
 ![alt text](desktopview.png)
 Mobile view
-![alt text](https://github.com/sabbanimanideep/CODSOFT/blob/main/Level02/WhatsApp%20Image%202025-03-07%20at%209.13.12%20PM.jpeg?raw=true)
+![alt text](https://github.com/sabbanimanideep/CODSOFT/blob/main/Task02/WhatsApp%20Image%202025-03-07%20at%209.13.12%20PM.jpeg?raw=true)
 
 ## Contributing
 Feel free to fork this repository and submit pull requests with improvements or bug fixes.
