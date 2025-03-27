@@ -2,7 +2,7 @@
 
 A simple calculator application built using JavaScript, HTML, and CSS. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-![Calculator Screenshot](https://github.com/sabbanimanideep/CODSOFT_LEVEL-1_TASK-3/blob/main/Screenshot%202025-03-01%20at%201.15.58%E2%80%AFPM.png?raw=true)
+![Calculator Screenshot](https://github.com/sabbanimanideep/CODSOFT/blob/main/Task03/Screenshot%202025-03-01%20at%201.15.58%E2%80%AFPM.png?raw=true)
 
 ## Features
 - Addition, Subtraction, Multiplication, and Division
